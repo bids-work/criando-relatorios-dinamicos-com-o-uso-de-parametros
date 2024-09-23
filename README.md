@@ -18,7 +18,7 @@ Acrescentado o gráfico de pizza, para visualização da participação de cada 
 ## 🚀 Resultados
 ## Prints de tela
 
-Prints com seleção e sem seleção para ilustração de visualização.
+Prints com seleção e sem seleção para ilustração de visualização de seleção de segmentação.
 
 ![print01-a](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2001-a.png)
 ![print01](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2001.png)
