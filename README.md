@@ -17,9 +17,21 @@ Acrescentado o gráfico de pizza, para visualização da participação de cada 
 
 ## 🚀 Resultados
 ## Prints de tela
+
+Prints com seleção e sem seleção para ilustração de visualização.
+
+![print01-a](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2001-a.png)
 ![print01](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2001.png)
+
+![print02-a](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2002-a.png)
 ![print02](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2002.png)
+
+![print03-a](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2003-a.png)
 ![print03](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2003.png)
+
+![print04-a](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2004-a.png)
 ![print04](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2004.png)
+
+![print05-a](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2005-a.png)
 ![print05](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2005.png)
 
