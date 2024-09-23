@@ -14,3 +14,4 @@ xx Na pag 01, foi alterado um dos cartões de 'soma de discounts' (4º cartão) 
 
 ## Prints de tela
 ![pag 01 - bar/map pbix](https://github.com/bids-work/desafio-criando-um-relatorio-gerencial-de-vendas-com-powerbi/blob/main/desafio%20unid%2004%20-%20pag%2001a%20de%20pbix.png)
+![print01](https://github.com/bids-work/criando-relatorios-dinamicos-com-o-uso-de-parametros/blob/main/desafio%20-%20print%2001.png)
